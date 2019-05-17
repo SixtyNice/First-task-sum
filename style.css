@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.wrapper {
+  margin-left: 100px;
+}
+
+.fieldset {
+  padding: 10px;
+  width: 200px;
+  border: 1px solid gray;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.input {
+  display: block;
+}
+
+.button {
+  margin-top: 10px;
+}
+/*# sourceMappingURL=style.css.map */
